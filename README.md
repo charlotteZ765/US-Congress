@@ -65,10 +65,18 @@ We analyze congressional speeches using the following NLP techniques:
 - **Scikit-learn** / **Statsmodels** (for statistical analysis)
 
 ## Results & Findings
-Key insights and results are presented in the codebook [US Congress v2](./US%20Congress%20v2.ipynb) and the [Project Report](./your-report.pdf).
+Key insights and results are presented in the codebook [US Congress v2](./US%20Congress%20v2.ipynb) and the [Project Report](./analysis%20report.pdf).
 
 The report summarizes:
 - Speech complexity trends
 - Lexical distinctions between groups
 - Semantic shifts in political language
 - Visualization of findings using tables and graphs
+
+## References
+Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2019). "Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora". Available at: [DOI link](10.18653/v1/2020.acl-main.51)
+
+Grieve, J. (2007). "Quantitative Methods in Lexical Variation". Linguistics Research Series. Available at: [DOI link](https://doi.org/10.1093/llc/fqm020)
+
+
+
