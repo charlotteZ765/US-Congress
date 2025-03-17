@@ -65,7 +65,7 @@ We analyze congressional speeches using the following NLP techniques:
 - **Scikit-learn** / **Statsmodels** (for statistical analysis)
 
 ## Results & Findings
-Key insights and results are presented in the codebook [US Congress v2](./US%Congress%v2.ipynb) and the [Project Report](./your-report.pdf).
+Key insights and results are presented in the codebook [US Congress v2](./US%20Congress%20v2.ipynb) and the [Project Report](./your-report.pdf).
 
 The report summarizes:
 - Speech complexity trends
