@@ -74,7 +74,7 @@ The report summarizes:
 - Visualization of findings using tables and graphs
 
 ## References
-Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2019). "Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora". Available at: [DOI link](10.18653/v1/2020.acl-main.51)
+Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2019). "Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora". Available at: [DOI link](https://doi.org/10.18653/v1/2020.acl-main.51)
 
 Grieve, J. (2007). "Quantitative Methods in Lexical Variation". Linguistics Research Series. Available at: [DOI link](https://doi.org/10.1093/llc/fqm020)
 
